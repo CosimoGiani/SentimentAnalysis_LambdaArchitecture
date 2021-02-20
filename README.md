@@ -10,6 +10,8 @@ In this scenario the architecture makes use of *Apache Hadoop* for the **Batch L
 **Serving Layer**. The system exploits the *LingPipe* tool kit for processing text using computational linguistics to classify tweets. Then, to show the 
 results it was implemented a graphical interface.
 
+More information and implementation details are available in the [paper](Sentiment_Analysis_Lambda_Architecture_Giani.pdf).
+
 ## Software requirements
 * [Apache Hadoop 3.2.1](https://hadoop.apache.org/)
 * [Apache Storm 2.1.0](https://storm.apache.org/)
